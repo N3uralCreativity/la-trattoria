@@ -1,0 +1,21 @@
+# Fichiers et dossiers à ignorer
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
+
+# Dossier La Trattoria (données sources)
+La Trattoria/

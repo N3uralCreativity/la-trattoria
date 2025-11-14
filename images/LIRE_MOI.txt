@@ -1,0 +1,42 @@
+📝 INSTRUCTIONS POUR PLACER VOS IMAGES
+==========================================
+
+Placez vos images de pizzas dans ce dossier avec les noms suivants :
+
+OBLIGATOIRE :
+-------------
+- pizza1.jpg    → Pizza Margherita
+- pizza2.jpg    → Pizza Reine
+- pizza3.jpg    → Pizza 4 Fromages
+- pizza4.jpg    → Pizza Pepperoni
+- pizza5.jpg    → Pizza Végétarienne
+- pizza6.jpg    → Pizza Calzone
+- pizza7.jpg    → Pizza Napolitaine
+- pizza8.jpg    → Pizza Carnivore
+- pizza9.jpg    → Pizza Chèvre Miel
+- pizza10.jpg   → Pizza Fruits de Mer
+
+OPTIONNEL :
+-----------
+- hero-bg.jpg   → Image de fond pour la section hero (page d'accueil)
+
+RECOMMANDATIONS :
+-----------------
+✓ Format : JPEG (.jpg)
+✓ Dimensions : 800x600px maximum
+✓ Poids : moins de 200KB par image
+✓ Qualité : 80-85% pour un bon compromis poids/qualité
+
+OPTIMISATION DES IMAGES :
+--------------------------
+Utilisez un outil gratuit comme :
+- TinyJPG : https://tinyjpg.com/
+- Squoosh : https://squoosh.app/
+- GIMP (logiciel gratuit)
+- Paint.NET (Windows)
+
+IMPORTANT :
+-----------
+⚠️ N'utilisez que les images de pizzas fournies dans le cadre du projet
+⚠️ Vous pouvez recadrer ou retoucher les images
+⚠️ Respectez les noms de fichiers indiqués ci-dessus
